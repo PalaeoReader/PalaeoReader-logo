@@ -2,7 +2,7 @@
 
 ## About
 
-The PalaeoReader logo depicts a Przewalski's horse, or takhi (Mongolian тахь, Proto-Mongolic *taqi).
+The PalaeoReader logo depicts a [Przewalski's horse](https://en.wikipedia.org/wiki/Przewalski%27s_horse), or takhi (Mongolian тахь, Proto-Mongolic *taqi).
 
 The takhi is indigenous to Central Asia, where it has some cultural import.  There is evidence that it may have been domesticated before the modern domestic horse, and that it was increasingly rare throughout historic times.  It became "extinct in the wild" in the mid 20th century, and in the late 20th century efforts began to reintroduce it into the wild by breeding populations from zoo "specimens".  Now there are again large populations of takhi living their lives on the steppe.
 
