@@ -1,4 +1,4 @@
-# PalaeoReader-logo
+# PalaeoReader logo
 
 ## About
 
