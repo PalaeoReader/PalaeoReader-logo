@@ -16,4 +16,4 @@ The artwork underlying the PalaeoReader logo is © Rania Abohatab, and licensed 
 
 The artwork is not intended for commercial use or training AI models, and is not permitted to be used in these ways.
 
-Derived project icons distributed with the project source code are additionally licensed in accordance with the code, as specifiedin the relevant repositori(es) (currently AGPL v3).
+Derived project icons distributed with the project source code are additionally licensed in accordance with the code, as specified in the relevant repositori(es) (currently AGPL v3).
